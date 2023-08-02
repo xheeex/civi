@@ -1,0 +1,2 @@
+read filter=lfs diff=lfs merge=lfs -text
+stable-diffusion-webui filter=lfs diff=lfs merge=lfs -text
